@@ -18,3 +18,14 @@ function setDate(){
 
 }
 setInterval(setDate, 1000);
+
+/*Propriedades de js usadas:
+Function -propriedade-()
+setDate()
+console.log
+setInterval()
+const
+querySelector
+-nome-da-variavel-.style.transform = `rotate(${-nome-da-variavel-}deg)`;
+getMinutes()
+getSeconds()*/
